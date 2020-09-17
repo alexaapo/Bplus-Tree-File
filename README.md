@@ -30,3 +30,11 @@ Some of the fuctions that I implement:
 - void AM_PrintError(char *errString)
 
 - void AM_Close()
+
+## Execution:
+1) bash script1.sh (Check results of first queries.)
+
+2) bash script2.sh (Check results of next queries.)
+
+3) bash script3.sh (Clean what we have just created.)
+
