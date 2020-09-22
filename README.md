@@ -1,4 +1,4 @@
-# B-Tree-File
+# B+-Tree-File
 For this project, I implemented an access method based on the B +trees. I organized a two-field file in B+
 trees, using the first field of the file as the key-field. Each file that corresponds
 in a B + tree will be made of blocks, which I organize properly to have
